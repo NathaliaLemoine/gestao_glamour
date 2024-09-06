@@ -1,6 +1,8 @@
 
-O projeto Gestão Glamour Semijoiasé um sistema de gerenciamento, desenvolvido com a biblioteca Pandas em Python. 
-O objetivo é substituir um sistema de planilhas Excel por uma solução automatizada que melhora a eficiência e a precisão na gestão de estoques e comissões.
+O projeto Gestão Glamour Semijoias é um sistema de gerenciamento, desenvolvido com a biblioteca Pandas em Python.
+O trabalho de extensão foi desenvolvido como exigêcia da disciplina de Tópicos de Big DAta em Python, com ênfase no TEma 5:
+Análise de DAdos com Python e Pandas
+O objetivo é substituir um sistema de planilhas Excel por uma solução automatizada que melhora a eficiência e a precisão na gestão de estoques e comissões da microempresa Glamou Semijoias.
 
 Funcionalidades
 - Cadastro de Revendedoras: Gerencie informações pessoais e de contato das revendedoras.
